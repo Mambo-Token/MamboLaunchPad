@@ -1,6 +1,6 @@
 # $Jumbo: Unique Memecoin on Kaspa KRC-20
 
-![$Jumbo Memecoin Image](path-to-your-image.jpg)
+![$Jumbo Memecoin Image](https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Jumbo_logo.jpg))
 
 **Total Supply:** 24,000 tokens
 
