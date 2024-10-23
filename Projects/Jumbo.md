@@ -27,5 +27,5 @@ It is 100% fair launched:
 - [Kroc](https://t.me/delta_krocbot?start=b7b6k59ox2v)
 - [Kroc Bot Marketplace](t.me/kroc_otc_bot)
 
-Join the community on [Telegram](https://t.me/MadMaxMeme)  
-Follow on [X](https://x.com/MadMaxMeme)
+Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)  
+Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)
