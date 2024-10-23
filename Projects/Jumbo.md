@@ -10,7 +10,9 @@ It is 100% fair launched:
 - 45% (10,500 tokens) initial crowdfund offers placed on 3 different marketplaces at a price scale (see below)
 - 10% reserved for liquidity and token price support management
 
-**The earlier you ape into $Jumbo, the more tokens you get. Only 56 offers available:**
+**The earlier you ape into $Jumbo, the more tokens you get. 
+
+Only 56 offers available:**
 
 | Kas    | Tokens  |
 |--------|---------|
