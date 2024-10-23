@@ -19,8 +19,13 @@ Only 56 offers available:**
 | 50 Kas | 325.00  |
 | 50 Kas | 320.00  |
 | 50 Kas | 315.00  |
+| 50 Kas | 310.00  |
+| 50 Kas | 305.00  |
 | ...    | ...     |
 | 50 Kas | 50.00   |
+
+1 Mint = 1 Jumbo
+50 mints = 50 Jumbo
 
 ## Marketplaces
 
