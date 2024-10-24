@@ -2,6 +2,8 @@
 
 ![$Jumbo Memecoin Image](https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg)
 
+## $JUMBO is the first Elephant memecoin on Kaspa KRC-20 - it's the OG-Phant
+
 **Total Supply:** 24,000 tokens
 
 It is 100% fair launched:
