@@ -36,3 +36,10 @@ Only 56 offers available:**
 
 Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)  
 Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)
+
+## Transparency accounts:
+Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve
+
+Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac
+
+Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z
