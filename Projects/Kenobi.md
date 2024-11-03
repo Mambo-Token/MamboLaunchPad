@@ -6,10 +6,10 @@
 
 It was created on November 2, 2024, after the cruel gov killed Peanut the famous yt squirrel. (see picture below).
 
-$Kenobi the Squirrel stand for exposing and ending government and burocracy tyranny and cruelties
+$Kenobi the Squirrel stands for exposing and ending government and burocracy tyranny and cruelties
 and bring government criminals into jail forever.
 Government has nothing to search in our homes.
-If you love Freedom - then buy some $Kenobi and support this grass root community movement.
+If you love Freedom - then buy some $Kenobi and support this memecoin grass root community movement.
 
 ## Tokenomics
 Total supply: 83160
