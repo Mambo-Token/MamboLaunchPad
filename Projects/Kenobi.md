@@ -23,11 +23,21 @@ Total supply: 83160
 Sales funds are used for liquidity, market making of the token and maintenance.
 
 ## Roadmap
-Listing on a real Kaspa DEX
+- Listing on a real Kaspa DEX
+- Website
+- $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account)
+- community building: if needed own x account, own tg group
+- real life help fro suppressed by gov ppl.
+
+**Decentralization**
 Governments are central forces oftentime abusing there power. 
+
 The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
 **Decentralization**
 That means $Kenobi's focus is to be on swaps and dexes, once avaiable.
+No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.
+
+**The Original Meme of $KENOBI** from Elon Musk:
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="300" height="400">
 
 ### Why Peanut was killed? 
