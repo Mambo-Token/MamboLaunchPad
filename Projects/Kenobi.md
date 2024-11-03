@@ -1,6 +1,6 @@
 # $Kenobi The Squirrel
 
-<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Kenobi-the-squirrel.jpeg" width="200" height="200">
+<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Kenobi-the-squirrel.jpeg" width="200" height="280">
 
 ## $Kenobi is a real life Meme created by Elon Musk (no joke) - you can check his X account.
 
@@ -28,7 +28,7 @@ Governments are central forces oftentime abusing there power.
 The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
 **Decentralization**
 That means $Kenobi's focus is to be on swaps and dexes, once avaiable.
-<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="400" height="300">
 
 ### Why Peanut was killed? 
-<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Peanut-knew-toomuch_2024-11-03_11-41.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Peanut-knew-toomuch_2024-11-03_11-41.png" width="300" height="400">
