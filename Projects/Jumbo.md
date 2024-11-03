@@ -1,6 +1,6 @@
 # $Jumbo: Unique Memecoin on Kaspa KRC-20
 
-<img src="https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg" width="150" height="280">
+<img src="https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg" width="240" height="240">
 
 ![$Jumbo Memecoin Image](https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg)
 
