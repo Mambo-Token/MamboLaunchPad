@@ -79,10 +79,11 @@ ac1 Sales: <br>
 kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp <br>
 Marketplace bot wallet (token deployer): <br>
 kaspa:qzca24pevy0k7ehlmnu4yt2z2ypee72n0ddsz86mqk3r9f2zw562stvrnermv <br>
-ac2 Liquidit and funds for dexes & price support  <br>
+ac2 Liquidity and funds for dexes & price support  <br>
 kaspa:qpqy2pzu4y9ejv7er67yauqazr07z7php0s9cyuujvpcrgeqc2ym59pn05gu7 <br>
 ac3 Airdrops <br>
 kaspa:qr94kxvzc2r0px4672z9enruhe7t2qmtlw0ewwh5kep8j0cv2z2nuagglu5ym <br>
+
 
 **The Original Meme of $KENOBI from Elon Musk:**
 
