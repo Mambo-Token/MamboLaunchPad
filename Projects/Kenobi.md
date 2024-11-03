@@ -68,13 +68,19 @@ That means $Kenobi's focus is to be on swaps and dexes, once avaiable.
 No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.
 
 
-**Socials** <br>
+**Socials**
+<br>
 https://X.com/MamboCoins <br>
 https://t.me/MamboToken
 <br>
-**The Original Meme of $KENOBI** from Elon Musk:
+
+**The Original Meme of $KENOBI from Elon Musk:**
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="300" height="400">
+
+Link to original meme post from Elon:
+
+https://x.com/elonmusk/status/1852745739379658774
 
 ### Why Peanut was killed? 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Peanut-knew-toomuch_2024-11-03_11-41.png" width="400" height="300">
