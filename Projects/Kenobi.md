@@ -16,7 +16,7 @@ Total supply: 83160
 - 100% fair token launch.
 - 100% premint. 
 - 70% (58212 tokens) open fair sales on marketplaces, swaps or here.
-**- 0% token preallocation**
+- 0% token preallocation
 - 25% (20790 tokens) reserves for Liquidity pools
 - 5% (4158 tokens) airdrops, rewards for active community members
   
