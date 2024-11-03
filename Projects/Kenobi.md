@@ -1,4 +1,4 @@
-# $Kenobi The Squirrel
+# $Kenobi The OG Squirrel of Kaspa KRC-20
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Kenobi-the-squirrel.jpeg" width="300" height="220">
 
