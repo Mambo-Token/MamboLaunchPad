@@ -1,6 +1,6 @@
 # $Jumbo: Unique Memecoin on Kaspa KRC-20
 
-![$Jumbo Memecoin Image](https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg)
+![$Jumbo Memecoin Image](https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg width="200" height="200")
 
 ## $JUMBO is the first Elephant memecoin on Kaspa KRC-20 - it's the OG-Phant
 
