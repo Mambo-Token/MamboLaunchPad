@@ -26,23 +26,24 @@ Initial offering sales prices is progressively going up.
 
 Ape in early for the best prices:
 
-Initial bonding curve prices: 
+Initial progressiv bonding curve prices: 
 - 100 Kas get 200 tokens
+
 Last initial offering price:
 - 100 Kas get 50 tokens.
 
 ## Where to buy?
-Marketplaces:
-KSPR: https://t.me/kspr_home_bot?start=PS8u4w
-Kaspiano: https://kaspiano.com/?ref=1gZf4X3J
-Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v
-Kroc Bot Marketplace: t.me/kroc_otc_bot
+Marketplaces: <br>
+KSPR: https://t.me/kspr_home_bot?start=PS8u4w <br>
+Kaspiano: https://kaspiano.com/?ref=1gZf4X3J <br>
+Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v <br>
+Kroc Bot Marketplace: t.me/kroc_otc_bot <br>
 
-** Best option **
+**Best option**
 
 Or directly here: Pay 100 to 1000 Kas to these launchpad address:
 
-** kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp **
+**kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
 
 - 100 Kas get 200 $Kenobi (price will go up, you get less tokens for the same amount kas)
 - This is supervised by Mambo KRC20 Rocket Launch Service
@@ -50,26 +51,27 @@ Or directly here: Pay 100 to 1000 Kas to these launchpad address:
 - This Kenobi Launch page in on Mambo's official github.
 
 ## Roadmap
-- Listing on a real Kaspa DEX
 - Website
 - $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account)
 - community building: if needed own x account, own tg group
+- Listing on a real Kaspa DEX
 - real life help fro suppressed by gov ppl.
 
 **Decentralization**
 Governments are central forces oftentime abusing there power. 
 
 The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
+
 **Decentralization**
 That means $Kenobi's focus is to be on swaps and dexes, once avaiable.
+
 No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.
 
 
-** Socials **
-https://X.com/MamboCoins
+**Socials** <br>
+https://X.com/MamboCoins <br>
 https://t.me/MamboToken
-
-
+<br>
 **The Original Meme of $KENOBI** from Elon Musk:
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="300" height="400">
