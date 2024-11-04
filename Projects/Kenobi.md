@@ -45,7 +45,8 @@ Or directly here: Pay 100 to 1000 Kas to these launchpad address:
 
 **kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
 
-- 100 Kas get 200 $Kenobi (price will go up, you get less tokens for the same amount kas)
+- ~~200 $Kenobi cost 100 Kas~~: price will goes progressively up. Hurry up.
+- current OTC price: 200 $Kenobi cost **106 Kas.**
 - This is supervised by Mambo KRC20 Rocket Launch Service
 - Mambo is core krc20 maxi showing up since June 2024
 - This Kenobi Launch page in on Mambo's official github.
