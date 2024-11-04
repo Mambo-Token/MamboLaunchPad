@@ -41,12 +41,12 @@ Kroc Bot Marketplace: t.me/kroc_otc_bot <br>
 
 **Best option**
 
-Or directly here: Pay 106 to 1060 Kas to these launchpad address:
+Or directly here: Pay 125 to 1250 Kas to these launchpad address:
 
 **kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
 
 - ~~200 $Kenobi cost 100 Kas~~: price will goes progressively up. Hurry up.
-- current OTC price: 200 $Kenobi cost **106 Kas.**
+- current OTC price: 200 $Kenobi cost **125 Kas.**
 - This is supervised by Mambo KRC20 Rocket Launch Service
 - Mambo is core krc20 maxi showing up since June 2024
 - This Kenobi Launch page in on Mambo's official github.
