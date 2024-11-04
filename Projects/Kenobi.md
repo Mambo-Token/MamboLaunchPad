@@ -41,7 +41,7 @@ Kroc Bot Marketplace: t.me/kroc_otc_bot <br>
 
 **Best option**
 
-Or directly here: Pay 100 to 1000 Kas to these launchpad address:
+Or directly here: Pay 106 to 1060 Kas to these launchpad address:
 
 **kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
 
