@@ -29,6 +29,8 @@ Only 56 offers available:**
 1 Mint = 1 Jumbo
 50 mints = 50 Jumbo
 
+**Upadet 1 November 2024: $Jumbo was fastly sold and minted out!**
+
 ## Marketplaces
 
 - [KSPR](https://t.me/kspr_home_bot?start=PS8u4w)
