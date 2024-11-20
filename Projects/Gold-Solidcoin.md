@@ -29,6 +29,13 @@ The future will show whether physical Gold or Kas will perform better , $Gold wi
 
 The general solidcoin whitepaper is in preparation, as is the $Gold coin whitepaper.
 
+Tokenomics of $Gold:
+
+Total supply: 50,000,000,000 <br>
+Premint 50%: 25,000,000,000 <br>
+Tokens per mint: 0.06 <br>
+Mints possible: 416,666,666,666 !!<br>
+Tokens to mint 50%: 25,000,000,000 <br>
 Those coins aim to teplace completely the need of stablecoins with their problems with anti crypto authorities and regulations.
 Solidcoins are not stablecoins, but collectible memecoins held in a certain price range in relation to Kas, the ultimate decentralized cryptocurrency.
 Solidcoins makes payment fun, fast, decentralized, easy offer a kine of investment backed partially by Kas (and other solidcoins or mememcoins)
