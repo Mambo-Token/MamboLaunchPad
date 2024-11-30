@@ -14,30 +14,25 @@ Read $Mambo's whitepaper of some of the others:
 https://github.com/Mambo-Token/whitepapers
 
 Read more about the dump protection:
-https://github.com/Mambo-Token/The-Art-of-Fair-Token-Launch
-.....
-Some of the KRC-20 tokens we helped  to deploy, ours or from friends and partners (not complete list):
-
-$Madmax
-
-$Apes
-
-$Banana
-
-$Jumbo
-
-$Mama
-
-$Yuge
-
-$Eagles
-
-$Whales
-
-$Gold
-
-$Cafe
-
-$Jesus
-
-$Yeshua
+https://github.com/Mambo-Token/The-Art-of-Fair-Token-Launch  
+.....  
+Recent launches:
+https://github.com/Mambo-Token/MamboLaunchPad/tree/main/Projects  
+https://github.com/Mambo-Token/Solidcoins  
+Some of the KRC-20 tokens we helped  to deploy, ours or from friends and partners (not complete list):  
+$Madmax  
+$Apes  
+$Banana  
+$Jumbo  
+$Kenobi  
+$Mama  
+$Yuge  
+$Eagles  
+$Whales  
+$Gold  
+$Cafe  
+$FRANC  
+$Jesus  
+$Yeshua  
+$XMAS  
+$KING
