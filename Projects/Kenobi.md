@@ -33,11 +33,10 @@ Last initial offering price:
 - 100 Kas get 10 tokens.
 
 ## Where to buy?
-Marketplaces: <br>
-KSPR: https://t.me/kspr_home_bot?start=PS8u4w <br>
-Kaspiano: https://kaspiano.com/?ref=1gZf4X3J <br>
-Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v <br>
-Kroc Bot Marketplace: t.me/kroc_otc_bot <br>
+Marketplaces: <br>  
+https://KaspaMarket.io  
+KSPR: https://t.me/kspr_home_bot?start=PS8u4w   
+Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v  
 
 **Best option**
 
