@@ -14,7 +14,7 @@ It is 100% fair launched:
 
 **The earlier you ape into $Jumbo, the more tokens you get. 
 
-Only 56 offers available:**
+The initial offers table, rising price:**
 
 | Kas    | Tokens  |
 |--------|---------|
@@ -29,21 +29,24 @@ Only 56 offers available:**
 1 Mint = 1 Jumbo
 50 mints = 50 Jumbo
 
-**Upadet 1 November 2024: $Jumbo was fastly sold and minted out!**
+**Upadet 1 November 2024: $Jumbo was fastly sold and minted out!**  
+But there are still some initial offers on marketplaces above mint price.
 
 ## Marketplaces
 
+-  https://kaspamarket.io/
 - [KSPR](https://t.me/kspr_home_bot?start=PS8u4w)
-- [Kaspiano](https://kaspiano.com/?ref=1gZf4X3J)
 - [Kroc](https://t.me/delta_krocbot?start=b7b6k59ox2v)
 - [Kroc Bot Marketplace](t.me/kroc_otc_bot)
 
-Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)  
-Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)
+## socials:  
+
+Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)   
+Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)  
+Website and whitepaper: this page here: 
+https://github.com/Mambo-Token/MamboLaunchPad/edit/main/Projects/Jumbo.md  
 
 ## Transparency accounts:
-Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve
-
-Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac
-
-Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z
+Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve  
+Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac  
+Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z  
