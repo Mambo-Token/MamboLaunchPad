@@ -30,7 +30,7 @@ Initial progressiv bonding curve prices:
 - 100 Kas get 200 tokens
 
 Last initial offering price:
-- 100 Kas get 50 tokens.
+- 100 Kas get 10 tokens.
 
 ## Where to buy?
 Marketplaces: <br>
@@ -60,22 +60,20 @@ Or directly here: Pay min. 250 to max. 2500 Kas to this launchpad address:
 - Listing on a real Kaspa DEX
 - real life help for suppressed by gov ppl.
 
-**Decentralization**
+**Decentralization**  
 Governments are central forces oftentime abusing there power. 
-
 The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
 
 **Decentralization**  
 That means $Kenobi's focus is to be on swaps and dexes, once avaiable.  
 No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.  
 
-**Socials**
-<br>
-https://X.com/MamboCoins <br>
-https://t.me/MamboToken
+**Socials**  
+https://X.com/MamboCoins   
+https://t.me/MamboToken  
 <br>
 
-## Transparency - $Kenobi accounts:
+## Transparency - $Kenobi accounts:  
 ac1 Sales: <br>
 kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp <br>
 Marketplace bot wallet (token deployer): <br>
