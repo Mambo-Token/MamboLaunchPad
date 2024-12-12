@@ -1,6 +1,6 @@
 # $Kenobi The OG Squirrel of Kaspa KRC-20
 
-<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Kenobi-Logo.jpeg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Kenobi-Logo510.jpg" width="300" height="300">
 
 ## $Kenobi is a real life Meme created by Elon Musk (no joke) - you can check his X account.
 
