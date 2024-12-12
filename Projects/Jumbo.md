@@ -13,8 +13,7 @@ It is 100% fair launched:
 - 10% reserved for liquidity and token price support management
 
 **The earlier you ape into $Jumbo, the more tokens you get. 
-
-The initial offers table, rising price:**
+The initial offers table, rising prices (progressive less tokens per Kas):**  
 
 | Kas    | Tokens  |
 |--------|---------|
@@ -34,10 +33,9 @@ But there are still some initial offers on marketplaces above mint price.
 
 ## Marketplaces
 
--  https://kaspamarket.io/
-- [KSPR](https://t.me/kspr_home_bot?start=PS8u4w)
-- [Kroc](https://t.me/delta_krocbot?start=b7b6k59ox2v)
-- [Kroc Bot Marketplace](t.me/kroc_otc_bot)
+-  https://kaspamarket.io/  
+- [KSPR tg bot wallet Marketplace](https://t.me/kspr_home_bot?start=PS8u4w)  
+- [Kroc tg bot wallet Marketplace](https://t.me/delta_krocbot?start=b7b6k59ox2v)  
 
 ## socials:  
 
@@ -46,7 +44,7 @@ Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)
 Website and whitepaper: this page here: 
 https://github.com/Mambo-Token/MamboLaunchPad/edit/main/Projects/Jumbo.md  
 
-## Transparency accounts:
+## Transparency accounts:  
 Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve  
 Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac  
 Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z  
