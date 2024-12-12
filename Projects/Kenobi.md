@@ -41,35 +41,33 @@ Kroc Bot Marketplace: t.me/kroc_otc_bot <br>
 
 **Best option**
 
-Or directly here: Pay min. 220 to max. 2200 Kas to this launchpad address:
+Or directly here: Pay min. 250 to max. 2500 Kas to this launchpad address:
 
 **kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
 
 - ~~200 $Kenobi cost 100 Kas~~: price will goes progressively up. Hurry up.
-- current OTC price: 200 $Kenobi cost **220 Kas.** 
+- current OTC price: 200 $Kenobi cost **250 Kas.** 
 - This is supervised by Mambo KRC20 Rocket Launch Service
 - Mambo is core krc20 maxi showing up since June 2024
-- This Kenobi Launch page in on Mambo's official github.
+- This Kenobi Launch page here in on Mambo's official github.
 
-**to prevent to big whales accumulation, we will not accept more than 3000 kas per day on this otc address and refund, if paid more.**
+**to prevent too big whales accumulation, we will not accept more than 10000 kas per day on this otc address and refund, if paid more.**
 
 ## Roadmap
 - Website
 - $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account)
 - community building: if needed own x account, own tg group
 - Listing on a real Kaspa DEX
-- real life help fro suppressed by gov ppl.
+- real life help for suppressed by gov ppl.
 
 **Decentralization**
 Governments are central forces oftentime abusing there power. 
 
 The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
 
-**Decentralization**
-That means $Kenobi's focus is to be on swaps and dexes, once avaiable.
-
-No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.
-
+**Decentralization**  
+That means $Kenobi's focus is to be on swaps and dexes, once avaiable.  
+No funds for Cex listing planned. We need a top Dex - then no need for centralized of private Cex'es.  
 
 **Socials**
 <br>
@@ -77,7 +75,7 @@ https://X.com/MamboCoins <br>
 https://t.me/MamboToken
 <br>
 
-## Transparency - $Kanobi accounts:
+## Transparency - $Kenobi accounts:
 ac1 Sales: <br>
 kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp <br>
 Marketplace bot wallet (token deployer): <br>
