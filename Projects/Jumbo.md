@@ -4,6 +4,15 @@
 
 ## $JUMBO is the first Elephant memecoin on Kaspa KRC-20 - it's the OG-Phant
 
+$Jumbo is a native unique KRC-20 Mamecoin, not some cheap imitations, deployed October 23, 2024.  
+$Jumbo stands for: Decentralization, Loyality to Kaspa, Fairness, Simplicity, Fun, Heavy weight.   
+$Jumbo will not prostitute to Cex's. If they want, **they** must buy on Dex's, as anybody else has to.   
+
+You can buy it here:  
+[https://hibit.app](https://www.hibit.app/pro/market/JUMBO/KAS)  
+and on future real L2 smart contract Dex's.  
+and here: [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
+
 **Total Supply:** 24,000 tokens
 
 It is 100% fair launched:
@@ -28,14 +37,16 @@ The initial offers table, rising prices (progressive less tokens per Kas):**
 1 Mint = 1 Jumbo
 50 mints = 50 Jumbo
 
-**Upadet 1 November 2024: $Jumbo was fastly sold and minted out!**  
-But there are still some initial offers on marketplaces above mint price.
+**Upadet 1 November 2024: $Jumbo was fastly sold (offers below mint costs) and minted out!**  
+But there are still quite a lot initial offers tokens on marketplaces/hibit above mint price.
 
 ## Marketplaces
 
--  https://kaspamarket.io/  
+[https://hibit.app](https://www.hibit.app/pro/market/JUMBO/KAS)  
+and on future real L2 smart contract Dex's.   
+and here:  
+- [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
 - [KSPR tg bot wallet Marketplace](https://t.me/kspr_home_bot?start=PS8u4w)  
-- [Kroc tg bot wallet Marketplace](https://t.me/delta_krocbot?start=b7b6k59ox2v)  
 
 ## socials:  
 
@@ -47,4 +58,7 @@ https://github.com/Mambo-Token/MamboLaunchPad/edit/main/Projects/Jumbo.md
 ## Transparency accounts:  
 Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve  
 Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac  
+Future DEx's reserves: kaspa:qzd7e4wn5tykrjvlv0he09w37d5y5e94uycce86ce4sgwfw42lc95pguhaxtf
 Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z  
+.....
+last updated August 3, 2025
