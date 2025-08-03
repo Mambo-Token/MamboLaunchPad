@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/YUGE-Logo400x.jpg" width="240" height="240">
 
 ## $Yuge is a unique KRC-20 Memecoin on Kaspa
-$Yuge was deployed 2024-10-08 .  
+$Yuge was deployed 2024-10-08, launched Agust 4, 2025.   
 No Bullshit, no insane minting costs. No obscure cex listing, no artificial images, no boring top design webpage with some meaningless blabla.  
 $Yuge is minimalistic yuge.  
 $Yuge is a real Memecoin. After launch the tokens are out of our hands.  
 But there is a big difference to 99.9% of other memecoins and tokens.  
-The salesfunds are directly used to build up a price support channel, to buy up dumps.  
+The sales funds are directly used for liquidity AND to build up a price support channel, to buy up dumps.  
 
 ## Unique and completely fair launch on https://hibit.app Dex
 
-### $Yuge is launched on August 4 on hibit.app.  
+### $Yuge is launched on August 4 2025 on hibit.app, at about 00:15 gtm +2 .
 
 ### All tokens (95%) are put on the Dex for sale.
 The remaining tokens are stored as a reserve for liquidity of future Dex listings.
@@ -53,4 +53,4 @@ kaspa:qq8hh669qp2xz694d5kctrsvwte4y04ykcxwgav34vlsqygmk5cqurhctj8wd
 
 This ist the whitepaper and the webpage of $Yuge. August 3, 2025.  
 It's gonna be $yuge. 
-Did you mint already some $Yuge :-)  
+Did you already mint some $Yuge :-)  
