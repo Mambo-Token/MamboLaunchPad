@@ -9,10 +9,13 @@ and are used for liquidity (DEX, Swaps, CEX) and for floor price protection (buy
 No need for later crowdfunding for fund for dexes or cexes. No double spending.  
 No waste of huge amounts of Kas just to create (mint) a token.  
 Normally we still leave a part for public minting - but not at the best price compared to initial offers.  
-As we begin to have Dex's on Kaspa with permissionless instant listing, first of them hibit.app, and soon some real smart contract based Dex's on L2  
+As there are now Dex's on Kaspa with permissionless instant listing, first of them hibit.app,  
+and soon some real smart contract based Dex's on L2,    
 we can now securely launch tokens with our approach directly on a dex, important is that a dex offers AMM and limit buy/sell orders.  
 This allows for sophisticated fair launches at different price levels, creating an initial curve.  
 
+### If you are interested in our help to make a reasonabe token launch, contact us:
+t.me/MamboToken  - demand the admin. Or on X.com/MamboCoins.  
 
 Read $Mambo's whitepaper of some of the others:  
 https://github.com/Mambo-Token/whitepapers  
