@@ -24,8 +24,8 @@ If you have a bad day, then mint some $Yuge, consciously doing something stupid 
 # Experience what a really fair and exiting token launch looks like:  
 900'000 $Yuge are put as limit orders on hibit.app  
 50'000 $Yuge reserved for liquidity.  
-Initial offeres in the following price levels and tranches:  
-If tokens of one day are sold out, next "day" sales may continue in the same day!  
+Initial offers in the following price levels and tranches:  
+As soon as tokens of one day are sold out, next "day" sales may continue on the same day!  
 Day 1: 200k $Yuge at 1.0 Kas  
 Day 2: 200K $Yuge at 0.8 Kas  
 Day 3: 200k $Yuge at 0.6 Kas  
