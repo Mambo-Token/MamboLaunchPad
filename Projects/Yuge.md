@@ -12,13 +12,13 @@ The salesfunds are directly used to build up a price support channel, to buy up 
 
 ## Unique and completely fair launch on hibit.app Dex
 
-### $Yuge is launched on August 3 on hibit.app.  
+### $Yuge is launched on August 4 on hibit.app.  
 
-### All tokens (96%) are put on the Dex for sale.
+### All tokens (95%) are put on the Dex for sale.
 The remaining tokens are stored as a reserve for liquidity of future Dex listings.
 Everybody has the same chance.
 
-The 
+# Experience what a really fair AND exiting token launch looks like:
 
 
 ... more to follow soon.
