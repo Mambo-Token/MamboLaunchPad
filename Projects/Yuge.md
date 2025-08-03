@@ -14,8 +14,11 @@ The salesfunds are directly used to build up a price support channel, to buy up 
 
 ### $Yuge is launched on August 3 on hibit.app.  
 
-### All tokens (90) are put on the Dex for sale.
+### All tokens (96%) are put on the Dex for sale.
 The remaining tokens are stored as a reserve for liquidity of future Dex listings.
 Everybody has the same chance.
 
-The ... more to follow soon.
+The 
+
+
+... more to follow soon.
