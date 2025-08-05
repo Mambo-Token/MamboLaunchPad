@@ -25,19 +25,19 @@ If you have a bad day, then mint some $Yuge, consciously doing something stupid 
 900'000 $Yuge are put as limit orders on hibit.app  
 50'000 $Yuge reserved for liquidity.  
 Initial offers in the following price levels and tranches:  
-As soon as tokens of one day are sold out, next "day" sales may continue on the same day!  
-Attention, a "day" may actually be only some hours, if low demand, we may lower price faster, and if the days allocation is sold out too.  
-Day 1: 200k $Yuge at 1.0 Kas  
-Day 2: 200K $Yuge at 0.8 Kas  
-Day 3: 200k $Yuge at 0.6 Kas  
-Day 4: 200K ̈́$Yuge at 0.4 Kas  
-Day 5: 100K $Yuge at 0.2 Kas  
+As soon as tokens of one period are sold out, next period sales continue, one level down.
+The steps down occur every several hours or up to a day.
+Period 1: 200k $Yuge at 1.0 Kas  
+Period 2: 200K $Yuge at 0.8 Kas  
+Period 3: 200k $Yuge at 0.6 Kas  
+Period 4: 200K ̈́$Yuge at 0.4 Kas  
+Period 5: 100K $Yuge at 0.2 Kas  
 If tokens are unsold, we continue to lower the price.  
 A part of unsold tokens is put to higher price levels.  
 A part of unsold tokens maybe burnt.  
 Remaining tokens:  
-Day 6: at 0.18 Kas  
-Day 7: at 0.16 Kas  
+Period 6: at 0.18 Kas  
+Period 7: at 0.16 Kas  
 etc.  until all are gone.  
 .....  
 Funds from sales are directly used to increase the liquidity pool and as buy limit orders at lower levels to support the token.  
