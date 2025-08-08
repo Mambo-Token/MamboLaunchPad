@@ -29,7 +29,7 @@ We do not exclude to burn eventually unsold tokens at a later point in time, whi
 Or we could consider to distribute a part of unsold tokens to those who bought in relation to their portion.  
 Once outsold, it's out of our controll.  
 
-## How and where is it sold?  
+## Launch: How and where is it sold?  
 $Whales are launched at the Dex like Exchange hibit.app, which offers the best functionalities to make a fair token launch.  
 Limit orders. So no fast pump dump scenario.  
 The Sales price starts at 10 Kas per $Whales and goes slowly up.  
@@ -39,7 +39,7 @@ After a certain time we take the remaining orders of the current level out and a
 Until all most tokens are sold out, we try to maintain the price on the swap where we want to have it, that means we may sell down to the level we want.  
 The funds from the sales are exclusively used to buil up liquidity for the token and support reserves to buy up dumps.  
 By this approach, $Whales will be very dump restistant, trading up in a price range channel, ideally.  
-## Date: about mid August 2025.
+## Launch Date: about mid August 2025.
 Join t.me/Mambotoken  and follow x.com/Mambocoins for updates.  
 Disclaimer: The launch process is fully trustless. You just swap Kas for $Whales and have it immediatly.  
 But hibit.app is kind of private dex, so we recommand to withdraw the funds after having bought them back to your wallet.  
