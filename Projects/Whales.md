@@ -57,5 +57,7 @@ The fact that there are only 10000 $Whales, makes them very rare.
 $Whales will be included in the $Rock KRC-20 OG Memecoins Index! (RoKOMI)  
 
 ### Transparency:  
-$Whales Liquidity Sales: kaspa:qputrews4evvkpdezckvmgd4cmzn553fzhaflx5n7kcq8cvva3n72msdkchkq
-$Whales Treasury: 
+$Whales Liquidity Sales: kaspa:qputrews4evvkpdezckvmgd4cmzn553fzhaflx5n7kcq8cvva3n72msdkchkq   
+$Whales Treasury: kaspa:qr0pzpcmnpeftag65swarj632k9x8ma9sakuzfzmwtk533z89awez852w59tf  
+....
+This is the whitepaper and "Website" of $Whales.  v. August 2025.
