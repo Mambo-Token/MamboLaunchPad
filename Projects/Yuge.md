@@ -50,8 +50,10 @@ That's it.
 Liquidity / Sales account: kaspa:qq8hh669qp2xz694d5kctrsvwte4y04ykcxwgav34vlsqygmk5cqurhctj8wd  
 Reservers for future Dex liquidity and token treasury:  
 kaspa:qq8hh669qp2xz694d5kctrsvwte4y04ykcxwgav34vlsqygmk5cqurhctj8wd  
-0.17% paid for managment and maintenance.
-0.5% donated to a token bag.
+Marketmaker:  
+kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac  
+0.17% paid for managment and maintenance.  
+0.5% donated to a token bag.  
 
 This ist the whitepaper and the webpage of $Yuge. August 3, 2025.  
 It's gonna be $yuge. 
