@@ -10,11 +10,11 @@ $Yuge is a real Memecoin. After launch the tokens are out of our hands.
 But there is a big difference to 99.9% of other memecoins and tokens.  
 The sales funds are directly used for liquidity AND to build up a price support channel, to buy up dumps.  
 
-## Unique and completely fair launch on https://hibit.app Dex
+## Unique and completely fair launch on on [Kaspa.com](https://kaspa.com/?ref=VoKqOIxR) *  
 
 ### $Yuge is launched on August 4 2025 on hibit.app, at about 00:15 gtm +2 .
 
-### All tokens (95%) are put on the Dex for sale.
+### All tokens (95%) are put on the Marketplace for sale.
 The remaining tokens are stored as a reserve for liquidity of future Dex listings.
 Everybody has the same chance.
 Tokenomics: 1 Million $Yuge. 99.9% premintet.
@@ -38,6 +38,7 @@ A part of unsold tokens maybe burnt.
 Remaining tokens:  
 Period 6: at 0.18 Kas  
 Period 7: at 0.16 Kas  
+Period yx: at 0.0xy
 etc.  until all are gone.  
 .....  
 Funds from sales are directly used to increase the liquidity pool and as buy limit orders at lower levels to support the token.  
@@ -55,3 +56,6 @@ kaspa:qq8hh669qp2xz694d5kctrsvwte4y04ykcxwgav34vlsqygmk5cqurhctj8wd
 This ist the whitepaper and the webpage of $Yuge. August 3, 2025.  
 It's gonna be $yuge. 
 Did you already mint some $Yuge :-)  
+.-.-.-.-.
+*The private Dex plattform hibit. app closed their doors during launch,   
+so we had to move with the sales orders to [Kaspa.com](https://kaspa.com/?ref=VoKqOIxR)  
