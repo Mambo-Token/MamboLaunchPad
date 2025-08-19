@@ -9,10 +9,13 @@ and are used for liquidity (DEX, Swaps, CEX) and for floor price protection (buy
 No need for later crowdfunding for fund for dexes or cexes. No double spending.  
 No waste of huge amounts of Kas just to create (mint) a token.  
 Normally we still leave a part for public minting - but not at the best price compared to initial offers.  
-As there are now Dex's on Kaspa with permissionless instant listing, first of them hibit.app,  
-and soon some real smart contract based Dex's on L2,    
-we can now securely launch tokens with our approach directly on a dex, important is that a dex offers AMM and limit buy/sell orders.  
-This allows for sophisticated fair launches at different price levels, creating an initial curve.  
+As there are now Dex's on Kaspa with permissionless instant listing, 
+likw kspr.exchange , kaspafinance.io , zealousswap.com and Kaspa.com .
+As long as none of the DEX's have limit orders combined with AMM pools, we rely on native atomic limit order marketplaces like:
+https://kaspa.com to sell intial token at a determined price range, this will allow for sophisticated fair launches at different price levels, creating an initial curve.  
+Once a Dex will have a mixed AMM/order book swap, things will get even smoother.
+It is crucial for soft decentralized trading to abandon the old scool AMM only swaps and get up2date with mixes pools.  
+Zilall.com show it already in 2022 how it can be done, even on a Layer 1 smart contract chain.  
 
 ### If you are interested in our help to make a reasonabe token launch, contact us:
 t.me/MamboToken  - demand the admin. Or on X.com/MamboCoins.  
@@ -27,6 +30,7 @@ Recent launches:
 https://github.com/Mambo-Token/MamboLaunchPad/tree/main/Projects  
 https://github.com/Mambo-Token/Solidcoins  
 Some of the KRC-20 tokens we helped  to deploy, ours or from friends and partners (not complete list):  
+$MAMBO
 $Madmax  
 $Apes  
 $Banana  
@@ -36,6 +40,7 @@ $Mama
 $Yuge  
 $Eagles  
 $Whales  
+$CASH
 $Gold  
 $Cafe  
 $FRANC  
@@ -43,3 +48,5 @@ $Jesus
 $Yeshua  
 $XMAS  
 $KING
+$Lion
+$ROCK
