@@ -29,7 +29,7 @@ You need one of those Solidcoins/Memecoins to buy $Whales!
 Tokenomics:  
 90%, 9000 Tokens are preminted for sales and DEX liqudity.  
 1000 Whales are sold on Marketplaces like Kaspa.com with an increasing price ladder.  
-1000 Whales are liquidity reservers for mor DEX listing.
+1000 Whales are liquidity reservers for more DEX listing.
 7000 Whales will be put into DEX pools, mostly paired with other Memecoins or solidcoins.  
 10%, 1000 $Whales are to be minted. 1 $Whales costs 10000 mints. 1 Mint gives 0.0001 $Whales.  
 Wait with minting until the sales price of $Whales on Dexes or marketplaces reaches 10000 Kas! 
