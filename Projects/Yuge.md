@@ -55,9 +55,14 @@ kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac
 0.17% paid for managment and maintenance.  
 0.5% donated to a token bag.  
 
-This ist the whitepaper and the webpage of $Yuge. August 3, 2025.  
-It's gonna be $yuge. 
+### Socials: 
+https://t.me/Madmaxmeme  
+https://x.com/Madmaxmeme  
+This ist the whitepaper and the webpage of $Yuge. 
+August 3, 2025.  
+It's gonna be $yuge.  
 Did you already mint some $Yuge :-)  
-.-.-.-.-.
-*The private Dex plattform hibit. app closed their doors during launch,   
-so we had to move with the sales orders to [Kaspa.com](https://kaspa.com/?ref=VoKqOIxR)  
+.-.-.-.-.  
+* The private Dex plattform hibit. app closed their doors during launch,   
+so we had to move with the sales orders to
+[Kaspa.com](https://kaspa.com/?ref=VoKqOIxR)  
