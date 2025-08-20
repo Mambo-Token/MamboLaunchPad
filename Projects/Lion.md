@@ -26,7 +26,7 @@ L1 marketplace. Limit orders. Buy with Kas.
 [https://Kaspa.com](https://kaspa.com/tokens/marketplace/token/LION)  
 On L2 DEXes:  
 [KSPR.Exchange](https://KSPR.Exchange)  DEX.  
-Pools: $Lion/$Mambo, $Lion/$Whales 
+Pools: $Lion/$Mambo, $Lion/$Whales  
 You need $Mamob or $Whales to buy $Lion on the DEX.  
 Once there are enough $Kas for marketplace sales, we can open a $Lion/Kas pool too.  
 
@@ -41,7 +41,7 @@ kaspa:qzrmvvunszx8x3uq4g3u3jzr70g5ankmh8z8ggm40mynpwg2mw4dsyw2kzr49
 
 
 ## Socials  
-https://t.me/Mambotoken
-https://x.com/Mambocoins
-Visit https://Mambo.Li 
+https://t.me/Mambotoken  
+https://x.com/Mambocoins  
+Visit https://Mambo.Li   
 This here is the website and whitepaper of $Lion. v. August 20, 2025  
