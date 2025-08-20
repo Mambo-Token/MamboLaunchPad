@@ -1,7 +1,7 @@
-# Whales of Kaspa KRC-20
+# $Whales of Kaspa KRC-20
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Whales-Logo.jpg" width="300" height="300">
 
-## $Whales is a unique KRC-20 Memecoin on Kaspa - Kasplex protocol.  
+## $Whales is a unique native KRC-20 Memecoin on Kaspa - Kasplex protocol.  
 ### $Whales are very rare. Only 10000 total supply.  
 $Whales are the only true OG $Whales ever on Kaspa.  
 The ticker $Whales is unique on the Kasplex KRC-20 protocol.  
@@ -14,9 +14,16 @@ For this it's important to have bridges between L1 & L2, like the kspr team buil
 This allows to bridge the unique KRC-20 tokens to EVM DEXes.  
 ### Only Memecoins with a ticker which has direct connection to the original Kasplex protocal are real OG's.  
 Nothing can change this fact.  
-### To find out if a ticker on a EVM is unique, they should have the (KRC-20) mark.  
+### To find out if a ticker on a EVM is a unique KRC-20 token, they should have the (KRC-20) mark.  
 
 ### This is your occasion to become a whale.  
+### Buy $Whales here:  
+L1 marketplace. Limit orders. Buy with Kas.  
+[https://Kaspa.com](https://kaspa.com/tokens/marketplace/token/WHALES)   
+On L2 DEXes:  
+[KSPR.Exchange](https://kspr.Exchange)   
+Pools: Franc/Whales, Mambo/Whales, Kenobi/Whales.  
+You need one of those Solidcoins/Memecoins to buy $Whales!  
 
 ## $Whales - Fair launch, no preallocation, no insiders.  
 Tokenomics:  
@@ -44,6 +51,7 @@ $Franc - $Whales
 $Mambo - $Whales  
 $Kenobi - $Whales.  
 If $Kas is built up from sales on Kaspa.com, we may consider to open a Kas-$Whales pool on the DEX too.  
+Disclaimer: The launch process is fully trustless. You just swap Kas  or Memecoins for $Whales and have it immediatly.  
 
 The funds from the sales are exclusively used to build up liquidity for the token and support reserves to buy up dumps.  
 By this approach, $Whales will be very dump restistant, trading up in a price range channel, ideally.  
@@ -51,23 +59,26 @@ By this approach, $Whales will be very dump restistant, trading up in a price ra
 ## Launch Date: about End of August 2025.  
 ....  
 Join t.me/Mambotoken  and follow x.com/Mambocoins for updates.  
-Disclaimer: The launch process is fully trustless. You just swap Kas for $Whales and have it immediatly.  
-But hibit.app is kind of private dex, so we recommand to withdraw the funds after having bought them back to your wallet.  
 
 ### Socials:  
 If you are interested to maintain a dedicated $Whales tg group and/or $Whales X account,  
-contact Mambo. Ask for Admin in th Mambotoken group. You can receive some $Whales for that.  
+contact Mambo. Ask for Admin in the Mambotoken group. You can receive $Whales for that.  
 https://t.me/Mambotoken  
 https://x.com/Mambocoins  
+Website: https://bio.link/kaspawhales  
 
 ## Outlook:  
-As EVM's (L2 smart contracts) are soon opened for Kaspa and KRC-20 Tokens, we wait the first noise and will then decide on which DEX we will first open a trading pool, if we have enough funds to do that from sales.  
-The rest is up to the open interest of the community in a high quality ultra fair launched unique prestige Memecoin.  
+We will first list on krsp.exchange DEX,  
+honoring their important part for the native KRC-20 tokens to create a bridge  
+between L1 and L2, so make fake and scam, fraud or pseudo KRC-20 tokens impossible.  
+Then we will check on with of the currently 4 other DEXes we will list $Whales too.  
+We will not pay for any CEX listing.  
+We are making us superfluous over time. $Whales is a OG Degen community token, not ours.  
 The fact that there are only 10000 $Whales, makes them very rare.  
-$Whales will be included in the $Rock KRC-20 OG Memecoins Index! (RoKOMI)  
+$Whales will be included in the $ROCK KRC-20 OG Memecoins Index (ROCKOMI) !
 
 ### Transparency:  
 $Whales Liquidity Sales: kaspa:qputrews4evvkpdezckvmgd4cmzn553fzhaflx5n7kcq8cvva3n72msdkchkq   
 $Whales Treasury: kaspa:qr0pzpcmnpeftag65swarj632k9x8ma9sakuzfzmwtk533z89awez852w59tf  
 ....
-This is the whitepaper and "Website" of $Whales.  v. August 2025.
+This is the whitepaper of $Whales.  v. August 20, 2025.
