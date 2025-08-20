@@ -2,44 +2,54 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Whales-Logo.jpg" width="300" height="300">
 
 ## $Whales is a unique KRC-20 Memecoin on Kaspa - Kasplex protocol.  
-### $Whales are very rare. only 10000 total supply.  
-$Whales are on a real mission to defend the uniqueness of all KRC-20 Kasplex Coins deployed.  
-Only Coins with this kind of unique Ticker are real OG's, no fake copies.  
+### $Whales are very rare. Only 10000 total supply.  
 $Whales are the only true OG $Whales ever on Kaspa.  
-The ticker $Whales is unique on the Kasplex protocol. Once Layer 2 smart contract EVM's are running on Kaspa,
-everybody can create a fake imitation with the same name.  
-### But only Memecoins with a ticker which has direct connection to the original Kasplex protocal are real OG's.  
+The ticker $Whales is unique on the Kasplex KRC-20 protocol.  
+$Whales are on a real mission to defend the uniqueness of all native KRC-20 Kasplex Coins.
+Unlike on Layer 2 EVM, where everybody can create tons of coins with the same ticker,  
+the native Layer 1 KRC-20 tokens have an unique ticker, which serves as the address.  
+This fact makes them unique and they are the OG's of the Kaspa tokens.  
+Only Coins with this kind of unique Ticker are real OG's, no fake copies.  
+For this it's important to have bridges between L1 & L2, like the kspr team built.  
+This allows to bridge the unique KRC-20 tokens to EVM DEXes.  
+### Only Memecoins with a ticker which has direct connection to the original Kasplex protocal are real OG's.  
 Nothing can change this fact.  
-## In order to find out whether a ticker on a EVM is unique, ask: Show me the original kasplex ticker is yours!  
+### To find out if a ticker on a EVM is unique, they should have the (KRC-20) mark.  
 
 ### This is your occasion to become a whale.  
 
-### $Whales - Fair launch, no preallocation, no insiders.  
-90% are preminted for sales, 9000 Tokens.  
-7000 Tokens are offered during the initial sales offer on a DEX, currently on hibit.app (PEX).    
-That means, you can buy it trustless.   
-2000 Tokens are Liquidity Reserves allthough for future Dexes.  
-Funds from sales are flowing into $Whales Liquidity and price support Treasury.  
-Out of the Liquidity Reserves we may pay costs involved with the token managment, listings, integrations. 
-99 Whales for team and partners. No other preallocation of hidden deal.  
-### 10%, 1000 $Whales are to be minted at 10000 Kas per 1 $Whales. 1 Mint gives 0.0001 $Whales.  
-### Wait with minting until the sales price of $Whales on Dexes or marketplace reaches 10000 Kas!  
-This reflects the price developpment of this unique memecoin we expect over time.  
+## $Whales - Fair launch, no preallocation, no insiders.  
+Tokenomics:  
+90%, 9000 Tokens are preminted for sales and DEX liqudity.  
+1000 Whales are sold on Marketplaces like Kaspa.com with an increasing price ladder.  
+1000 Whales are liquidity reservers for mor DEX listing.
+7000 Whales will be put into DEX pools, mostly paired with other Memecoins or solidcoins.  
+10%, 1000 $Whales are to be minted. 1 $Whales costs 10000 mints. 1 Mint gives 0.0001 $Whales.  
+Wait with minting until the sales price of $Whales on Dexes or marketplaces reaches 10000 Kas! 
+The minting price reflects the rarity and the minimum short term price goal.  
+The initial sales price is much lower than the mint price, this give investors and speculators a good potential.  
+This reflects the price development of this unique memecoin we expect over time.  
 We do not exclude to burn eventually unsold tokens at a later point in time, which will make the token even more rare.  
-Or we could consider to distribute a part of unsold tokens to those who bought in relation to their portion.  
-Once outsold, it's out of our controll.  
+Once outsold, it's out of our control.  
+Funds from sales are flowing into $Whales Liquidity and price support Treasury.  
+0.99% Whales for token management, team and partners. No other preallocation of hidden deal.  
 
-## Launch: How and where is it sold?  
-$Whales are launched at the Dex like Exchange hibit.app, which offers the best functionalities to make a fair token launch.  
-Limit orders. So no fast pump dump scenario.  
-The Sales price starts at 10 Kas per $Whales and goes slowly up.  
-### This give $Whales a 1000x potential until minimum minting costs at 10k Kas/Whales.  
-We distribute limit sales orders from 10 kas up on hibit.app.  
-After a certain time we take the remaining orders of the current level out and add it on the top of our ladder.  
-Until all most tokens are sold out, we try to maintain the price on the swap where we want to have it, that means we may sell down to the level we want.  
-The funds from the sales are exclusively used to buil up liquidity for the token and support reserves to buy up dumps.  
+## Launch: Where and how to buy $Whales?  
+$Whales are initially sold on Krsp.Exchange L2 DEX and Kaspa.com L1 Marketplace.  
+We may open LP'on other Kaspa Kasplex L2 Dexes too later.  
+The sales offers on Kaspa.com with limit order marketplace will increase in price.  
+The starting price it yet to be decided. You buy with $Kas.
+On kspr.Exchange, $Whales will be in following pools:
+$Franc - $Whales  
+$Mambo - $Whales  
+$Kenobi - $Whales.  
+If $Kas is built up from sales on Kaspa.com, we may consider to open a Kas-$Whales pool on the DEX too.  
+
+The funds from the sales are exclusively used to build up liquidity for the token and support reserves to buy up dumps.  
 By this approach, $Whales will be very dump restistant, trading up in a price range channel, ideally.  
-## Launch Date: about mid August 2025.
+
+## Launch Date: about End of August 2025.  
+....  
 Join t.me/Mambotoken  and follow x.com/Mambocoins for updates.  
 Disclaimer: The launch process is fully trustless. You just swap Kas for $Whales and have it immediatly.  
 But hibit.app is kind of private dex, so we recommand to withdraw the funds after having bought them back to your wallet.  
