@@ -4,10 +4,10 @@
 ## $Lion is a day one OG Memecoin of KRC-20, Kaspa Kasplex protocol.
 Each ticker is unique. There is only one original $Lion of Kaspa.
 
-## The story of $Lion
+## The story of $Lion the Lioness of Kaspa  
 $LION is the best friend of $Mambo the Lion of Kaspa.  
-As a part onf $Lion is bought with $Mambo, $Mambo sacrifices a part of himself.  
-For each 10000 $Lion sold and n circulaion, 44000 $Mambo are burnt.  
+As a part of $Lion is bought with $Mambo, $Mambo sacrifices a part of himself.  
+For each 10000 $Lion sold and in circulaion, 44000 $Mambo are burnt.  
 $Lion is a very scarce memecoin and she represents the feminine power in crypto space.   
 No blabla story to add.  
 
