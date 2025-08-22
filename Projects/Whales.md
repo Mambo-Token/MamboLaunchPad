@@ -80,5 +80,8 @@ $Whales will be included in the $ROCK KRC-20 OG Memecoins Index (ROCKOMI) !
 ### Transparency:  
 $Whales Liquidity Sales: kaspa:qputrews4evvkpdezckvmgd4cmzn553fzhaflx5n7kcq8cvva3n72msdkchkq   
 $Whales Treasury: kaspa:qr0pzpcmnpeftag65swarj632k9x8ma9sakuzfzmwtk533z89awez852w59tf  
+Marketmaker accounts:  
+kaspa:qpxtvhtmzum8746nz9u09wg4s5ztq4malgm444j3dswcjjvt7c0r6mqje0put  
+kaspa:qpjdnvpdcez2gc379dzffvtvaxjfevk09mwyxy0kun2ryxu42j7565zrns3ks  
 ....
-This is the whitepaper of $Whales.  v. August 20, 2025.
+This is the whitepaper of $Whales.  v. August 22, 2025.
