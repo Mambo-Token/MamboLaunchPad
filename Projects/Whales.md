@@ -22,8 +22,8 @@ L1 marketplace. Limit orders. Buy with Kas.
 [https://Kaspa.com](https://kaspa.com/tokens/marketplace/token/WHALES)   
 On L2 DEXes:  
 [KSPR.Exchange](https://kspr.Exchange)   
-Pools: Franc/Whales, Mambo/Whales, Kenobi/Whales.  
-You need one of those Solidcoins/Memecoins to buy $Whales!  
+Pools: $Cash/$Whales, $Mambo/$Whales, $Kenobi/$Whales, $Banana/$Whales.   
+It pays out to own some of those Memecoins to buy $Whales!  
 
 ## $Whales - Fair launch, no preallocation, no insiders.  
 Tokenomics:  
@@ -47,17 +47,22 @@ We may open LP'on other Kaspa Kasplex L2 Dexes too later.
 Marketplace limit orders:  
 The sales offers are put on [Kaspa.com](https://kaspa.com/tokens/marketplace/token/WHALES) .    
 The starting price is 200 Kas for 1 Whales. Rapidly increasing!  
-### The $WHALES price goes up on the price ladder with every $Whales offered.
-On [kspr.Exchange](https://kspr.exchange/), $Whales will be in following pools:
+
+### The $WHALES price goes up on the price ladder with every $Whales offered.  
+On [kspr.Exchange](https://kspr.exchange/), $Whales will be in following pools:  
 $CASH - $Whales   
 $KENOBI - $Whales   
 $BANANA - $Whales  
 $MAMBO - $Whales  
 If enough $Kas is built up from sales on Kaspa.com, we may consider to open a Kas-$Whales pool on the DEX too.  
 The launch process is fully trustless. You just swap Kas  or Memecoins for $Whales and have it immediatly.  
-
 The funds from the sales are exclusively used to build up liquidity for the token and support reserves to buy up dumps.  
 By this approach, $Whales will be very dump restistant, trading up in a price range channel, ideally.  
+
+## Brutal $Whales BURNING  
+Each other day with no $Whales sold on Kaspa.com we will take the lowest order away and burn that $Whales.  
+That may have been your early investment in probably the rarest liquid Memecoin on Kaspa!  
+Your occasion gone!  
 
 ## Launch Date: about End of August 2025.  
 ....  
