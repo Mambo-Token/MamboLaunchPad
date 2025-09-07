@@ -10,10 +10,15 @@ It's the highest sign of prestige to have 1 or more $Eagles in you wallet.
 
 The extrem scarcity of $Eagles gives it's price potential room for unlimited imagination.  
 
-$Eagles is rarer than 99,99% of the NFT's and the rarest KRC-20 (together with it's big brother $EAGLE.  
+$Eagles is rarer than 99,99% of the NFT's and the rarest KRC-20 (together with it's big brother $EAGLE.)    
 
 Avaiable on kaspa.com marketplace.  
 
-$Eagles was deployed 2024-09-20 14:46, in the first week of the KRC-20 opening and is a unique early days OG.
+$Eagles was deployed 2024-09-20 14:46, in the first week of the KRC-20 opening and is a unique early days OG.  
 
-20 $Eagles can be minted at 0.0001 $Eagles per mint. (1 $Eagles = 10000 mints).
+20 $Eagles can be minted at 0.0001 $Eagles per mint. (1 $Eagles = 10000 mints).  
+
+### Socials:  
+https://t.me/MadMaxMeme  
+https://x.com/MadMaxMeme  
+
