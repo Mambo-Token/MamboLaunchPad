@@ -8,9 +8,9 @@
 ## How to get an $EAGLE ?   
 - Try to buy on Kaspa.com Marketplace  
 - Send 10 $Eagles to $Madmax and you get 1 $EAGLE. (As long as avaiable).  
-- Mint 100k $Eagle.
-38 $Eagle are for sale/ distribution in $MadMax's hands.  
+- Mint 100k time for 1 $Eagle.   
 4 $Eagle can be minted.  
+38 $Eagle  are for sale/ distribution in $MadMax's hands. 
 
 ### Socials:  
 https://t.me/MadMaxMeme  
