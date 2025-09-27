@@ -49,6 +49,10 @@ The $Soda rewards must be bought from the $Lemon liquidity. They are not free!
 If it sounds to good to be true: Our business model are the small pool fees and the success.  
 Not used tokens maybe burnt later on.  
 
+## Socials
+https://X.com/MamboCoins  
+https://t.me/MamboToken  
+
 ## Transparency:  
 $Lemon & $Soda reserves accounts:  
 Will be soon updated.  
