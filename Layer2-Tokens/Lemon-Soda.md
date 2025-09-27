@@ -2,8 +2,8 @@ Two early Kasplex L2 EVM Memecoins:
 # $LEMON & $SODA  
 ## You need $Lemon for a Lemon-$Soda.  
 
-<img src="../logos/lemon-01.png" alt="$Lemon" width="45%" style="display:inline-block; margin-right:10px;" />
-<img src="../logos/soda01.png" alt="$Soda" width="45%" style="display:inline-block;" />
+<img src="../logos/Lemon-01.png" alt="$Lemon" width="45%" style="display:inline-block; margin-right:10px;" />
+<img src="../logos/Soda01.png" alt="$Soda" width="45%" style="display:inline-block;" />
 
 
 ## Buy $Lemon on Dexes:  
