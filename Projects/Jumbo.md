@@ -1,4 +1,4 @@
-# $Jumbo: Unique Memecoin on Kaspa KRC-20
+# $Jumbo: Unique Memecoin on Kaspa KRC-20 and EVM L2.
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg" width="240" height="240">
 
@@ -8,14 +8,12 @@ $Jumbo is a native unique KRC-20 Mamecoin, not some cheap imitations, deployed O
 $Jumbo stands for: Decentralization, Loyality to Kaspa, Fairness, Simplicity, Fun, Heavy weight.   
 $Jumbo will not prostitute to Cex's. If they want, **they** must buy on Dex's, as anybody else has to.   
 
-You can buy it here:  
-[https://hibit.app](https://www.hibit.app/pro/market/JUMBO/KAS)  
-and on future real L2 smart contract Dex's.  
+You can buy $Jumbo soon on [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
 and here: [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
 
 **Total Supply:** 24,000 tokens
 
-It is 100% fair launched:
+It was 100% fair launched:
 
 - 45% (10,800 tokens) for public minting
 - 45% (10,500 tokens) initial crowdfund offers placed on 3 different marketplaces at a price scale (see below)
@@ -40,11 +38,12 @@ The initial offers table, rising prices (progressive less tokens per Kas):**
 **Upadet 1 November 2024: $Jumbo was fastly sold (offers below mint costs) and minted out!**  
 But there are still quite a lot initial offers tokens on marketplaces/hibit above mint price.
 
-## Marketplaces
-
-[https://hibit.app](https://www.hibit.app/pro/market/JUMBO/KAS)  
-and on future real L2 smart contract Dex's.   
-and here:  
+## DEXes & Marketplaces
+Check between L1 Marketplace prices and Dex prices.  
+Low liquidity high volatility can cause short term much higher or lower prices than the limit orders on marketplaces.  
+This gives occasion for arbitrage trades between L1 & L2.  
+You can buy $Jumbo soon on [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)    
+and limit orders on Marketplaces here:  
 - [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
 - [KSPR tg bot wallet Marketplace](https://t.me/kspr_home_bot?start=PS8u4w)  
 
@@ -61,4 +60,4 @@ Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plx
 Future DEx's reserves: kaspa:qzd7e4wn5tykrjvlv0he09w37d5y5e94uycce86ce4sgwfw42lc95pguhaxtf
 Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z  
 .....
-last updated August 3, 2025
+last updated September 27, 2025
