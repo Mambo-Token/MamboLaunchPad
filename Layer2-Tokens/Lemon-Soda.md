@@ -34,9 +34,13 @@ Put in pool with $Soda at 10:1: 3 Million tokens.
 2 Million tokens for soft sales in a price curve to generate funds  
 for better liquidity, other pools on other dexes and for buying $Soda rewards.  
 The concept is sustainable. the $Soda rewards must be bought, they are not free inflating tokens.  
-2 Million tokens as reserves for other pools liquidity.  
+2 Million tokens as reserves for other dex pools liquidity.  
 0, 0%, ZERO, nada, null, nichts, no preallocation whatsovever.  
 If it sounds to good to be true: Our business model are the small pool fees and the success.  
+Unsold and unused tokens maybe burnt at a later point.  
+The goal is to have a fair well distributed launch and taking our hands off.  
+Finally the token manangement wants to own not more thant 5-10% of the tokens to maintain the rewards circulation.  
+The rest is in the bags of the degens.  
 
 ## $Soda
 Total supply: 1 Million $Soda token.  
