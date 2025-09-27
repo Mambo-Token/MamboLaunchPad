@@ -31,6 +31,7 @@ we will open a Kas/$Soda pool and place small sell orders to generate more susta
 Total supply: 10 million tokens.  
 Put in initial small Kas/Lemon pool: 3 Million tokens.  
 Put in pool with $Soda at 10:1: 3 Million tokens.  
+Lemon/Soda pools on [kspr.exchange](https://app.kspr.exchange/?ref=Mambo) and [Kaspa.com](https://defi.kaspa.com/swap)  
 2 Million tokens for soft sales in a price curve to generate funds  
 for better liquidity, other pools on other dexes and for buying $Soda rewards.  
 The concept is sustainable. the $Soda rewards must be bought, they are not free inflating tokens.  
