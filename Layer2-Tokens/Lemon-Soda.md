@@ -10,10 +10,14 @@ Two early Kasplex L2 EVM Memecoins:
 $Lemon:  0x2a155bb4bd48134998Ad65776b54ADe747449fA5  
 $Soda:  0xE72C364E05d4e75A1d832e68D989fdCaa31778d2
 
-## Buy $Lemon on Dexes:  
+## Buy $Lemon on Dexes, Kas/$Lemon pools:  
 ###  [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)
-### Kaspa.com dex planned, as soon as we have enouhg funds generated.  
-other Dex'es planned, depending on demand and funds available.  
+### Zealouswap or Kaspa.com dex planned, as soon as we have enouhg funds generated.  
+
+## $Lemon/$Soda Pools:  
+[kspr.exchange](https://app.kspr.exchange/?ref=Mambo)   
+[App.zealousswap.com](https://app.zealousswap.com/swap?from=0x2a155bb4bd48134998Ad65776b54ADe747449fA5&to=0xE72C364E05d4e75A1d832e68D989fdCaa31778d2)   
+[Kaspa.com](https://defi.kaspa.com/swap)  
 
 ## Stake $Lemon here to get tasty $Soda rewards:  
 Staking of $Lemon for $Soda rewards on Kaspa.com dex as soon as available.  
