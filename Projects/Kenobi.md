@@ -26,42 +26,35 @@ Initial offering sales prices is progressively going up.
 
 Ape in early for the best prices:
 
-Initial progressiv bonding curve prices: 
-- 100 Kas get 200 tokens
-
-Last initial offering price:
-- 100 Kas get 10 tokens.
+Initial open sales, progressiv bonding curve prices: 
+- 100 Kas get 200 tokens, price going up step by step.
+The initial sales phase is over. But there are still many unsold tokens.
+We have distributed in a soft funds generating curve sell orders on L1 Marketplace.
 
 ## Where to buy?
-Marketplaces: <br>  
-https://KaspaMarket.io  
-KSPR: https://t.me/kspr_home_bot?start=PS8u4w   
-Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v  
+### on Dexes:  
+[kspr.exchange](https://app.kspr.exchange/?ref=Mambo)  
+Others Dexes coming, if enough funds to open a pool.  
+## On Marketplaces: <br>  
+[https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
+[Kspr telegram bot Marketlace](https://t.me/kspr_home_bot?start=PS8u4w)   
 
-**Best option**
+## $Kenobi staking!
+Stake $Kenobi to get $Rock & $Whales rewards.  
+Those rewards are not free tokens, they are bought with the $Kenobi treasury funds.  
+The rewards do not inflate the tokens, as they has to be bought, it's a circulation.  
 
-Or directly here: Pay min. 250 to max. 2500 Kas to this launchpad address:
-
-**kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp**
-
-- ~~200 $Kenobi cost 100 Kas~~: price will goes progressively up. Hurry up.
-- current OTC price: 200 $Kenobi cost **250 Kas.** 
-- This is supervised by Mambo KRC20 Rocket Launch Service
-- Mambo is core krc20 maxi showing up since June 2024
-- This Kenobi Launch page here in on Mambo's official github.
-
-**to prevent too big whales accumulation, we will not accept more than 10000 kas per day on this otc address and refund, if paid more.**
-
-## Roadmap
-- Website
-- $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account)
-- community building: if needed own x account, own tg group
-- Listing on a real Kaspa DEX
+## Roadmap  
+- Listing on a real Kaspa DEX.
+- Offering rewards for $Kenobi staking.  
+- $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account).  
+- community building: if needed own x account, own tg group.  
 - real life help for suppressed by gov ppl.
+- - Website.  
 
 **Decentralization**  
-Governments are central forces oftentime abusing there power. 
-The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:
+Governments are central forces oftentime abusing there power.  
+The primordial main point of the creation of btc or cryptocurrencies and specially of Kaspa is:  
 
 **Decentralization**  
 That means $Kenobi's focus is to be on swaps and dexes, once avaiable.  
@@ -93,3 +86,13 @@ https://x.com/elonmusk/status/1852745739379658774
 
 ### Why Peanut was killed? 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Peanut-knew-toomuch_2024-11-03_11-41.png" width="400" height="300">
+
+### History:
+**Initial OTC sales - closed**  
+OTC alses are closed!!  
+The offer was: Pay min. 250 to max. 2500 Kas to this launchpad address:  
+kaspa:qrj7xz4te3guyg8l4e6wgu2ac50lxg6t6ku3m25kf9rjq5l372rwsrw6cr0pp  
+- This was supervised by Mambo KRC20 Rocket Launch Service.  
+- Mambo is core krc20 maxi showing up since June 2024.  
+- This Kenobi Launch page here in on Mambo's official github.
+**to prevent too big whales accumulation, we will not accept more than 10000 kas per day on this otc address and refund, if paid more.**
