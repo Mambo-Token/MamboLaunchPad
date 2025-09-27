@@ -71,6 +71,9 @@ Soft Sales, 2 million / 200k:
 Other Dexes Reserves: 2 million/200k:  
 0xe2D29b1b13dd0c9B1875fcE75B7f77099B2b78De  
 
+### Deployment:
+$Lemon & $Soda were deployed with:  
+https://defi.kaspa.com/swap/deploy 
 
 ### That's it.
 This is the whitepaper for $Lemon and $Soda L2 Kasplex EVM Memecoins.  
