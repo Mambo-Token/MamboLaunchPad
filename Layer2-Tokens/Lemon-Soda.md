@@ -6,9 +6,9 @@ Two early Kasplex L2 EVM Memecoins:
 <img src="../logos/Soda01.png" alt="$Soda" width="40%" style="display:inline-block;" />  
   </div>  
 
-## Contract addresses (don't fall for scams!): 
-$Lemon:  
-$Soda: 
+## Contract addresses Kasplex EVM (don't fall for scams!): 
+$Lemon:  0x2a155bb4bd48134998Ad65776b54ADe747449fA5  
+$Soda:  0xE72C364E05d4e75A1d832e68D989fdCaa31778d2
 
 ## Buy $Lemon on Dexes:  
 ###  [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)
@@ -58,8 +58,18 @@ https://X.com/MamboCoins
 https://t.me/MamboToken  
 
 ## Transparency:  
-$Lemon & $Soda reserves accounts:  
-Will be soon updated.  
+$Lemon & $Soda reserves accounts:   
+Deployment Kas & token/token Pools: 3 & 3 million:  
+0xBf8AF29093431b17600f39eACb9d6B6f0F787949  
+Kspr Brdiging & Pool Bot Wallet:  
+0x79B311fE0694B1C0980A167d9ba2F94F53bd675a   
+Rewards Trader, at stard funded by Mambo treasury:  
+0xc7CA136333a84bd77718230DF141E8b046250524  
+Soft Sales, 2 million / 200k:  
+0x946D9b143a8a0E0D15bd2D57BB210D757Ab5dD58   
+Other Dexes Reserves: 2 million/200k:  
+0xe2D29b1b13dd0c9B1875fcE75B7f77099B2b78De  
+
 
 ### That's it.
 This is the whitepaper for $Lemon and $Soda L2 Kasplex EVM Memecoins.  
