@@ -16,9 +16,10 @@ $Soda:  0xE72C364E05d4e75A1d832e68D989fdCaa31778d2
 On zealousswap dex planned, as soon as we have enough liquidity funds generated.  
 
 ## How to buy or get $Soda:
-$Soda/Kas pools:
+### $Soda/Kas pools:  
 [LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37)   
-Attention, low liquidity, high volatility
+[kspr.exchange](https://app.kspr.exchange/?ref=Lemon)   
+Attention, low liquidity, high volatility!  
 We created a $Lemon/$Soda pools on 3 dexes, see below.  
 ### You can buy $Soda with $Lemon.  
 The Lemon/Soda pools have more liquidity produce less slippage!   
