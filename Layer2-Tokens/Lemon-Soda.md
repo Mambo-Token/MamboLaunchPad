@@ -13,7 +13,7 @@ $Soda:  0xE72C364E05d4e75A1d832e68D989fdCaa31778d2
 ## Buy $Lemon on Dexes, Kas/$Lemon pools:  
 ###  [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)   
 ###  [LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37)     
-On zealousswap dex planned, as soon as we have enough liquidity funds generated.  
+###  app.zealousswap.com   
 
 ## How to buy or get $Soda:
 ### $Soda/Kas pools:  
