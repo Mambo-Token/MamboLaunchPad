@@ -12,33 +12,39 @@ $Soda:  0xE72C364E05d4e75A1d832e68D989fdCaa31778d2
 
 ## Buy $Lemon on Dexes, Kas/$Lemon pools:  
 ###  [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)   
-###  [LFG.Kaspa.com]([https://LFG.Kaspa.com](https://lfg.kaspa.com/app/dex/swap?inputCurrency=0x2a155bb4bd48134998Ad65776b54ADe747449fA5&outputCurrency=0xE72C364E05d4e75A1d832e68D989fdCaa31778d2)   
+###  [LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37)     
 On zealousswap dex planned, as soon as we have enough liquidity funds generated.  
+
+## How to buy or get $Soda:
+$Soda/Kas pools:
+[LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37)   
+Attention, low liquidity, high volatility
+We created a $Lemon/$Soda pools on 3 dexes, see below.  
+### You can buy $Soda with $Lemon.  
+The Lemon/Soda pools have more liquidity produce less slippage!   
+### Stake $Lemon on [lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
+and get tasty $Soda rewards.  
+You can sell $Soda rewards for $Lemon, and sell Lemon for Kas, to take profit.  
+We will place small & soft sell orders from reserves to generate more sustainable funds for the $Lemon and $Soda treasury.  
 
 ## $Lemon/$Soda Pools:  
 [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)   
 [App.zealousswap.com](https://app.zealousswap.com/swap?from=0x2a155bb4bd48134998Ad65776b54ADe747449fA5&to=0xE72C364E05d4e75A1d832e68D989fdCaa31778d2)   
-[LFG.Kaspa.com](https://LFG.Kaspa.com)   
+[LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37)    
 
 ## Stake $Lemon here to get tasty $Soda rewards:  
 Staking of $Lemon for tasty $Soda rewards on  
-https://lfg.kaspa.com/app/stake   
+[lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
 Saking of $Lemon on ksrp for $Soda as soon as avaiabe.  
 
-## How to buy or get $Soda:
-We create a $Lemon / $Soda pool on [kspr.exchange](https://app.kspr.exchange/?ref=Mambo)  
-You can buy $Soda with $Lemon.   
-You can sell $Soda rewards for $Lemon, and sell Lemon for Kas, to take profit.  
-Stake $Lemon on kaspa.com dex and get tasty $Soda rewards.  
-Once a Dex offers limit orders of Clob (central limit order book)   
-we will open a Kas/$Soda pool and place small sell orders to generate more sustainable funds for the $Lemon and $Soda treasury.  
+
 
 # Tokenomics:  
 ## $Lemon:  
 Total supply: 10 million tokens.  
 Put in initial small Kas/Lemon pool: 3 Million tokens.  
 Put in pool with $Soda at 10:1: 3 Million tokens.  
-Lemon/Soda pools on [kspr.exchange](https://app.kspr.exchange/?ref=Mambo) and [Kaspa.com](https://defi.kaspa.com/swap)  
+Lemon/Soda pools on [kspr.exchange](https://app.kspr.exchange/?ref=Mambo) and [LFG.Kaspa.com](https://lfg.kaspa.com/app/?ref=13db37) 
 2 Million tokens for soft sales in a price curve to generate funds  
 for better liquidity, other pools on other dexes and for buying $Soda rewards.  
 The concept is sustainable. the $Soda rewards must be bought, they are not free inflating tokens.  
