@@ -26,9 +26,10 @@ We created a $Lemon/$Soda pools on 3 dexes, see below.
 The Lemon/Soda pools have more liquidity produce less slippage!   
 
 
-### Stake $Lemon and get tasty $Soda rewards.  
+## Stake $Lemon and get tasty $Soda rewards.  
 on  
 [kspr.exchange](https://app.kspr.exchange/?ref=Lemon)    
+
 [lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
 
 You can sell $Soda rewards for $Lemon, and sell Lemon for Kas, to take profit.  
@@ -41,6 +42,7 @@ We will place small & soft sell orders from reserves to generate more sustainabl
 
 ## Stake $Lemon here to get tasty $Soda rewards:  
 Staking of $Lemon for tasty $Soda rewards on  
+[KSPR DEX](https://app.kspr.exchange/staking?Ref=LemonSoda)  
 [lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
 Saking of $Lemon on ksrp for $Soda as soon as avaiabe.  
 
