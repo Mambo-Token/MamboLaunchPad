@@ -15,6 +15,7 @@ $Jumbo will not prostitute to Cex's. If they want, **they** must buy on Dex's, a
 ### You can buy $Jumbo on: 
 - [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
 -  [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)
+-  https://app.zealousswap.com/liquidity
 -  https://app.KaspaFinance.io
 
 **Total Supply:** 24,000 tokens
