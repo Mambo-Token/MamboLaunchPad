@@ -4,12 +4,18 @@
 
 ## $JUMBO is the first Elephant memecoin on Kaspa KRC-20 - it's the OG-Phant
 
+### Contract address (CA) on L2 EVM:
+### 0xb2261Ed39988482E50D2dfD55C75877E1DcBCfd1
+
 $Jumbo is a native unique KRC-20 Mamecoin, not some cheap imitations, deployed October 23, 2024.  
 $Jumbo stands for: Decentralization, Loyality to Kaspa, Fairness, Simplicity, Fun, Heavy weight.   
 $Jumbo will not prostitute to Cex's. If they want, **they** must buy on Dex's, as anybody else has to.   
 
-You can buy $Jumbo soon on [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
-and here: [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
+
+### You can buy $Jumbo on: 
+- [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
+-  [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)
+-  https://app.KaspaFinance.io
 
 **Total Supply:** 24,000 tokens
 
@@ -36,14 +42,19 @@ The initial offers table, rising prices (progressive less tokens per Kas):**
 50 mints = 50 Jumbo
 
 **Upadet 1 November 2024: $Jumbo was fastly sold (offers below mint costs) and minted out!**  
-But there are still quite a lot initial offers tokens on marketplaces/hibit above mint price.
+But there are still quite a lot initial offers tokens on marketplaces above mint price.  
+Funds from those sales will flow into liquidity and rewards or price support buys.  
 
-## DEXes & Marketplaces
+## DEXes & Marketplaces  
 Check between L1 Marketplace prices and Dex prices.  
 Low liquidity high volatility can cause short term much higher or lower prices than the limit orders on marketplaces.  
 This gives occasion for arbitrage trades between L1 & L2.  
-You can buy $Jumbo soon on [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)    
-and limit orders on Marketplaces here:  
+You can buy $Jumbo here: 
+- [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
+-  [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)
+-  https://app.KaspaFinance.io  
+
+## Marketplaces (limit orders) :  
 - [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
 - [KSPR tg bot wallet Marketplace](https://t.me/kspr_home_bot?start=PS8u4w)  
 
@@ -53,6 +64,7 @@ Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)
 Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)  
 Website and whitepaper: this page here: 
 https://github.com/Mambo-Token/MamboLaunchPad/edit/main/Projects/Jumbo.md  
+Logo: https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg  
 
 ## Transparency accounts:  
 Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve  
