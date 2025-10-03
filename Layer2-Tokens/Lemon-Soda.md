@@ -24,8 +24,13 @@ Attention, low liquidity, high volatility!
 We created a $Lemon/$Soda pools on 3 dexes, see below.  
 ### You can buy $Soda with $Lemon.  
 The Lemon/Soda pools have more liquidity produce less slippage!   
-### Stake $Lemon on [lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
-and get tasty $Soda rewards.  
+
+
+### Stake $Lemon and get tasty $Soda rewards.  
+on  
+[kspr.exchange](https://app.kspr.exchange/?ref=Lemon)    
+[lfg.kaspa.com/app/stake](https://lfg.kaspa.com/app/stake?ref=13db37)   
+
 You can sell $Soda rewards for $Lemon, and sell Lemon for Kas, to take profit.  
 We will place small & soft sell orders from reserves to generate more sustainable funds for the $Lemon and $Soda treasury.  
 
