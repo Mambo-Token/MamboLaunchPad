@@ -42,7 +42,7 @@ The initial offers table, rising prices (progressive less tokens per Kas):**
 1 Mint = 1 Jumbo
 50 mints = 50 Jumbo
 
-**Upadet 1 November 2024: $Jumbo was fastly sold (offers below mint costs) and minted out!**  
+## $Jumbo was fastly sold (offers below mint costs) and minted out!**  
 But there are still quite a lot initial offers tokens on marketplaces above mint price.  
 Funds from those sales will flow into liquidity and rewards or price support buys.  
 
@@ -51,9 +51,10 @@ Check between L1 Marketplace prices and Dex prices.
 Low liquidity high volatility can cause short term much higher or lower prices than the limit orders on marketplaces.  
 This gives occasion for arbitrage trades between L1 & L2.  
 You can buy $Jumbo here: 
-- [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)   
+-  [https://kspr.exchange](https://app.kspr.exchange/?ref=MadMax)    
 -  [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)
--  https://app.KaspaFinance.io  
+-  https://app.zealousswap.com/liquidity   
+-  https://app.KaspaFinance.io   
 
 ## Marketplaces (limit orders) :  
 - [https://kaspa.com](https://kaspa.com/?ref=GUpfDsnN)  
@@ -63,14 +64,14 @@ You can buy $Jumbo here:
 
 Join the community on [t.me/MadMaxMeme](https://t.me/MadMaxMeme)   
 Follow on [X.com/MadMaxMeme](https://x.com/MadMaxMeme)  
-Website and whitepaper: this page here: 
+### Website and whitepaper: this page here: 
 https://github.com/Mambo-Token/MamboLaunchPad/edit/main/Projects/Jumbo.md  
 Logo: https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Jumbo_logo.jpg  
 
 ## Transparency accounts:  
 Liquidity reserves: kaspa:qr9728fej6xyqhe48c7qmqyjvjyde6p82c9zve6vp2c5y3v46l64k2vqrf4ve  
 Token price support: kaspa:qzey3rh7hezv438ssxhzqh2c5hwducysjy036earhrwdwdgmq5plxfc3ajyac  
-Future DEx's reserves: kaspa:qzd7e4wn5tykrjvlv0he09w37d5y5e94uycce86ce4sgwfw42lc95pguhaxtf
+Future DEx's reserves: kaspa:qzd7e4wn5tykrjvlv0he09w37d5y5e94uycce86ce4sgwfw42lc95pguhaxtf   
 Initial sales bot (token deployer): kaspa:qq5h8x865kdlm6y7mk4vhtg3jf8vlhfnjf05wfx3fq5um0l00t4dux3jc2h2z  
 .....
-last updated September 27, 2025
+last updated Oktober 5, 2025
