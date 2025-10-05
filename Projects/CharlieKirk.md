@@ -4,8 +4,6 @@
 It's a unique KRC-20 Kaspa Memecoin.  
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/CharlieKirk-Logo.jpg" width="337" height="450">
 
-!!! This whitepaper is still in work, not ready yet!
-
 Charlie has the eternal life and not only wrote history on earth,   
 but changed history, opening gates of the light of Jesus in this dark world to a lost generation.  
 We like to add to this and further immortalize him on earth   
