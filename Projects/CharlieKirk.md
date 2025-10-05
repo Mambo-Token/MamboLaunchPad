@@ -12,7 +12,7 @@ We like to add to this and further immortalize him on earth
 and inscribe his memorial into the Kaspa blockdag blockchain Layer 1, KRC-20 inscriptions,  
 as Kaspa is the fastest and most advance real cryptocurrency technology, having solved the trilemma:   
 decentralization, speed, affordable (cheap transactions) for real time p2p payments.  
-The uniqueness of the KRC-20 token tickers makes this a very special memorial coin, which cannot be immitated or faked.  
+The uniqueness of the KRC-20 token tickers makes this a very special memorial coin, which cannot be imitated or faked.  
 
 ##  $Kirk is a 100% fair open sales and rewards distribution launch.  
 No preallocation whatsoever!  
