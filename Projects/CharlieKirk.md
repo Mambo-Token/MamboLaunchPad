@@ -13,16 +13,13 @@ decentralization, speed, affordable (cheap transactions) for real time p2p payme
 The uniqueness of the KRC-20 token tickers makes this a very special memorial coin, which cannot be imitated or faked.  
 
 ##  $Kirk is a 100% fair open sales and rewards distribution launch.  
+## Tokenomics  
 No preallocation whatsoever!  
-Total supply: 19'932'005  
-sales: 300x 25910 $Kirk  = 7'773'000 Tokens.   
+Total supply: 19'932'005 (birth and death year of Charlie).   
+sales: 300 offers of 25910 $Kirk tokens = 7'773'000 Tokens.   
 This number 7773000 is accidently and I read:  
 777 = Jesus Christ multiplies the 300 warriors 10x.  
 This is the impact of his martyrdom on earth for the Kingdom of Heaven of Jesus Christ and it's warriors.  
-
-## How to buy the unique $Kirk Memorial Coin.  
-### Buy $KIRK on Marketplace with limit orders:  
-[Kaspa.com/ tokens marketplace](https://kaspa.com/tokens/marketplace?ref=GUpfDsnN)   
 
 ### Initial Price: 300kas for 25910 $Kirk.  
 This amount contains the date of the death of Charlie.  
@@ -30,8 +27,10 @@ Starting price for 1 $Kirk = 0.011578541 Kas
 Additional smaller sales offers:   
 300x 9325 $Kirk tokens for 120 kas = 2'797'500 tokens.  
 This amount (9325) contains the birth and death year of Charlie.  
-300x sold for 300 Kas = 90k Kas liquidity. (Once sold out)   
-300x sold for 120 Kas = 36k Kas liquidity. (Once sold out)   
+
+## How to buy the unique $Kirk Memorial Coin.  
+### Buy $KIRK on Marketplace with limit orders:  
+[Kaspa.com/ tokens marketplace](https://kaspa.com/tokens/marketplace?ref=GUpfDsnN) 
 
 ## Buy $Kirk on a L2 DEX:
 [KSPR.Exchange DEX](https://app.kspr.exchange?ref=Jesus)      
