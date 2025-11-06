@@ -66,7 +66,7 @@ kaspa:qrresnc8wqyz0v77n90xf67xff9lr3mlxjrdkjwnwkf68rzfn4wsj4h7yrh2w
 DEX LP Managment wallet:  
 0x6b891305BECd41Aa3cFe771621ED03B8c5b28655   
 
-Last updated October 5, 2025.  
+Last updated November 6, 2025.  
 Visit https://Jesus4you.ch for more infos about the other tokens and the Gospel.  
 
 
