@@ -32,6 +32,7 @@ Best choice:
 ## $Kenobi staking!
 Stake $Kenobi to get $Lemon, $Rock & $Whales rewards.  
 [LFG.Kaspa](https://lfg.kaspa.com/app/?ref=9e28f6)    
+[kspr.exchange](https://app.kspr.exchange/?ref=Mambo)   
 Those rewards are not free tokens, they are bought with the $Kenobi treasury funds.  
 The rewards do not inflate the tokens, as they have to be bought, it's a circulation.  
 
