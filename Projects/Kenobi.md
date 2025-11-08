@@ -49,7 +49,7 @@ Total supply: 83160
 A huge part of not sold tokens in the initial month are put in token/token pools on DEXes instead of burning them.  
 We consider this as far better than burning. It still maintains the option  
 to expand into other Layer 2 or vprog Dexes later on.  
-Considering to create pools with $Jumbo, $Banana, $Lemon, $Whales, $Rock and $Mambo.  
+Considering to create pools with $Jumbo, $Banana, $Lemon, $Whales, $Rock, $XMAS and $Mambo.  
   
 Sales funds are used for liquidity, market making of the token and maintenance.
 
@@ -64,9 +64,8 @@ But there are still many unsold tokens.
 We have distributed in a soft funds generating curve sell orders on L1 Marketplace.  
 
 ## Roadmap  
-- Listing on a real Kaspa DEX.
-- Offering rewards for $Kenobi staking.  
-- $Kenobi looks for a graphics freak to take the role of the meme godfather (may include Kenobi x account).  
+- Listing on real Kaspa DEXes. [done] Kenobi was the first KRC20 to be listed on 4 Dexes, besides Nacho.  
+- Offering rewards for $Kenobi staking. [done]   
 - community building: if needed own x account, own tg group.  
 - real life help for suppressed by gov ppl.
 - - Website.  
@@ -95,8 +94,8 @@ kaspa:qpqy2pzu4y9ejv7er67yauqazr07z7php0s9cyuujvpcrgeqc2ym59pn05gu7 <br>
 ac3 Airdrops <br>
 kaspa:qr94kxvzc2r0px4672z9enruhe7t2qmtlw0ewwh5kep8j0cv2z2nuagglu5ym <br>
 
-
-**The Original Meme of $KENOBI from Elon Musk:**
+### The Story of $Kenobi  
+### The Original Meme of $KENOBI from Elon Musk:  
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Kenobi-squirrelElonMuskPost_2024-10-19_20-54-49.png" width="300" height="400">
 
