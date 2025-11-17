@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/logos/Whales-Logo.jpg" width="300" height="300">
 
 ## $Whales is a unique native KRC-20 Memecoin on Kaspa - Kasplex protocol.  
+### $Whales L2 EVM Ca: 0xc953E3A24c65f913DcCDCE5552264F722ff2DC29  
 ### $Whales are very rare. Only 10000 total supply.  
 $Whales are the only true OG $Whales ever on Kaspa.  
 The ticker $Whales is unique on the Kasplex KRC-20 protocol.  
