@@ -50,11 +50,18 @@ The sales offers are put on [Kaspa.com](https://kaspa.com/tokens/marketplace/tok
 The starting price is 200 Kas for 1 Whales. Rapidly increasing!  
 
 ### The $WHALES price goes up on the price ladder with every $Whales offered.  
-On [kspr.Exchange](https://kspr.exchange/), $Whales will be in following pools:  
+## $Whales on Layer 2 EVM's:  
+Ca: 0xc953E3A24c65f913DcCDCE5552264F722ff2DC29  
+👉 [KSPR DEX:](https://app.kspr.exchange?ref=Mambo)   
+$Whales will be in following pools:  
+$Kas-$Whales  
+$Rock-$Whales   
+planned:  
+$MAMBO - $Whales   
 $CASH - $Whales   
 $KENOBI - $Whales   
 $BANANA - $Whales  
-$MAMBO - $Whales  
+
 If enough $Kas is built up from sales on Kaspa.com, we may consider to open a Kas-$Whales pool on the DEX too.  
 The launch process is fully trustless. You just swap Kas  or Memecoins for $Whales and have it immediatly.  
 The funds from the sales are exclusively used to build up liquidity for the token and support reserves to buy up dumps.  
@@ -63,7 +70,7 @@ By this approach, $Whales will be very dump restistant, trading up in a price ra
 ## Brutal $Whales BURNING  
 Each other day with no $Whales sold on Kaspa.com we will take the lowest order away and burn that $Whales.  
 That may have been your early investment in probably the rarest liquid Memecoin on Kaspa!  
-Your occasion gone!  
+Your occasion gone!  Burning period ended temporary.   
 
 ## Launch Date: about End of August 2025.  
 ....  
@@ -93,4 +100,4 @@ Marketmaker accounts:
 kaspa:qpxtvhtmzum8746nz9u09wg4s5ztq4malgm444j3dswcjjvt7c0r6mqje0put  
 kaspa:qpjdnvpdcez2gc379dzffvtvaxjfevk09mwyxy0kun2ryxu42j7565zrns3ks  
 ....
-This is the whitepaper of $Whales.  v. August 22, 2025.
+This is the whitepaper of $Whales.  updated November 17, 2025.
